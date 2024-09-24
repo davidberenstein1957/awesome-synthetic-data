@@ -31,7 +31,7 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 + [Synner](https://github.com/huda-lab/synner): an open source tool to generate real-looking synthetic data by visually specifying the properties of the dataset.
 + [Synth](https://www.getsynth.com/): an open source data-as-code tool that provides a simple CLI workflow for generating consistent data in a scalable way. 
 + [Synthea](https://synthetichealth.github.io/synthea/): an open source synthetic patient generator that models the medical history of synthetic patients.
-+ [Synthetic Data Generator](https://huggingface.co/spaces/argilla/synthetic-data-generator): an open source UI based on distilabel and Gradio, that can be used to generate high quality synthetic datasets for free using Hugging Face inference endpoints.
++ [Synthetic Data Generator](https://huggingface.co/spaces/argilla/synthetic-data-generator): Build datasets using natural language for free using Hugging Face inference endpoints, Gradio and distilabel.
 + [Synthetic data vault (SDV)](https://sdv.dev/): one of the first open source synthetic data solutions, SDV provides tools for generating synthetic data for tabular, relational, and time series data.  
 + [TGAN](https://github.com/sdv-dev/TGAN): generative adversarial training for generating synthetic tabular data.
 + [Tofu](https://github.com/spiros/tofu): a Python library for generating synthetic UK Biobank data. 
